@@ -144,7 +144,7 @@ function App() {
                       : 'from-blue-900 to-blue-400'
                   } rounded-lg transform rotate-6 scale-105 opacity-50 blur-lg`}></div>
                   <img 
-                    src="https://github.com/isenschmid/isenschmid-swiss/blob/57d38c5fb12730ef451806917cf47b84010aa640/portfolio.jpg" 
+                    src="https://raw.githubusercontent.com/isenschmid/isenschmid-swiss/main/portfolio.jpg" 
                     alt="Professional headshot placeholder" 
                     className="relative z-10 w-full h-[400px] object-cover rounded-lg shadow-xl"
                   />
