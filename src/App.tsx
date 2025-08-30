@@ -195,17 +195,31 @@ function App() {
                   <Briefcase className={`w-6 h-6 ${isDark ? 'text-purple-400' : 'text-blue-900'}`} />
                 </div>
                 <div className={`${isDark ? 'bg-gray-800' : 'bg-gray-50'} p-6 rounded-lg`}>
-                  <h3 className={`text-xl font-semibold ${isDark ? 'text-blue-400' : 'text-blue-900'}`}>Co-Founder & COO</h3>
-                  <p className={`${isDark ? 'text-gray-400' : 'text-gray-500'} mb-2`}>SWISSNAND • 2024 - Heute</p>
+                  <h3 className={`text-xl font-semibold ${isDark ? 'text-blue-400' : 'text-blue-900'}`}>System Engineer</h3>
+                  <p className={`${isDark ? 'text-gray-400' : 'text-gray-500'} mb-2`}>CompuTech Informatik AG • 2025 - Heute</p>
                   <p className={`${isDark ? 'text-gray-300' : 'text-gray-700'} mb-4`}>
-                    Erstellen einer digitalen Online-Präsenz für KMUs mit Fokus auf den Kanton Bern.
-                    Digitalisierung eines Unternehmens. Steigerung der Effienz durch unsere Plattform.
+                    Betreuen der Zugriffs- und Sicherheitsinfrastruktur der Private & Public Cloud.
+                    Implementierung von Microsoft 365 Lösungen für personalisierte Kundenbedürfnisse.
+                    Verwaltung und Administration der Webserver Infrastruktur.
+                    Implementierung und Überwachung von Backup Lösungen.
+                    Monitoring von Netzwerkinfrastrukturen.
+                    Support und Kundenbetreuung.
                   </p>
                   <div className="flex flex-wrap gap-2">
-                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>GoHighLevel</span>
                     <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Microsoft 365</span>
-                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Unternehmensführung</span>
-                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Teamleitung</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Azure</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>PowerShell</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Citrix</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Windows Server</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Hyper-V</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>SCVMM & SCCM</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Linux</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Plesk</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Barracuda</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Paessler PRTG</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Hornetsecurity</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>Redstor</span>
+                    <span className={`px-3 py-1 ${isDark ? 'bg-gray-700' : 'bg-gray-200'} rounded-full text-sm`}>MSP360</span>
                   </div>
                 </div>
               </div>
@@ -215,8 +229,8 @@ function App() {
                   <Briefcase className={`w-6 h-6 ${isDark ? 'text-blue-400' : 'text-blue-400'}`} />
                 </div>
                 <div className={`${isDark ? 'bg-gray-800' : 'bg-gray-50'} p-6 rounded-lg`}>
-                  <h3 className={`text-xl font-semibold ${isDark ? 'text-purple-400' : 'text-blue-900'}`}>System Engineer</h3>
-                  <p className={`${isDark ? 'text-gray-400' : 'text-gray-500'} mb-2`}>CompuTech Informatik AG • 2021 - Heute</p>
+                  <h3 className={`text-xl font-semibold ${isDark ? 'text-purple-400' : 'text-blue-900'}`}>Informatiker EFZ Plattformentwicklung i.A.</h3>
+                  <p className={`${isDark ? 'text-gray-400' : 'text-gray-500'} mb-2`}>CompuTech Informatik AG • 2021 - 2025</p>
                   <p className={`${isDark ? 'text-gray-300' : 'text-gray-700'} mb-4`}>
                     Betreuen der Zugriffs- und Sicherheitsinfrastruktur der Private & Public Cloud.
                     Implementierung von Microsoft 365 Lösungen für personalisierte Kundenbedürfnisse.
